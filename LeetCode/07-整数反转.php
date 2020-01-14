@@ -5,13 +5,16 @@
  * Date: 2020/1/6
  * Time: 11:50
  */
+
 // https://leetcode-cn.com/problems/reverse-integer/
-class Solution {
+class Solution
+{
     /**
      * @param Integer $x
      * @return Integer
      */
-    function reverse($x) {
+    function reverse($x)
+    {
         // 判断数值是否为整数
         if (!is_int($x)) return 0;
         // 设置暂存器
