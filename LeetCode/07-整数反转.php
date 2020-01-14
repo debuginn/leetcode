@@ -16,7 +16,7 @@ class Solution {
         if (!is_int($x)) return 0;
         // 设置暂存器
         $res = 0;
-        // 设置最大值及最小值范围
+        // 设置最大值及最小值范围 pow函数 次幂
         $max = pow(2, 31) - 1;
         $min = pow(-2, 31);
         // 数字反转操作
