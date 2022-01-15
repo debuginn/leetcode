@@ -52,7 +52,6 @@ func TestAddTwoNumbers(t *testing.T) {
 				Val:  0,
 				Next: nil,
 			},
-
 			l2: &ListNode{
 				Val:  0,
 				Next: nil,
