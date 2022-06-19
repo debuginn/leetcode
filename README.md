@@ -1,6 +1,6 @@
 ## LeetCode Algorithm
 
-algorithm problems: [https://leetcode.cn/problemset/algorithms/](https://leetcode.cn/problemset/algorithms/)
+problems: [https://leetcode.cn/problemset/algorithms/](https://leetcode.cn/problemset/algorithms/)
 
 |     | problems       | difficulty | code                                                                              | test code                                                        | remarks |
 |-----|----------------|------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------|---------|
@@ -14,7 +14,7 @@ algorithm problems: [https://leetcode.cn/problemset/algorithms/](https://leetcod
 | 8   | 字符串转换整数 (atoi) | medium     | [8_myAtoi.go](./algorithm/golang/8_myAtoi.go)                                     | [test.go](./algorithm/golang/8_myAtoi_test.go)                   |         |
 | 9   | 回文数            | medium     | [9_isPalindrome.go](./algorithm/golang/9_isPalindrome.go)                         | [test.go](./algorithm/golang/9_isPalindrome_test.go)             |         |
 | 10  | 正则表达式匹配        | hard       | [10_isMatch.go](./algorithm/golang/10_isMatch.go)                                 | [test.go](./algorithm/golang/10_isMatch_test.go)                 |         |
-| 11  | 盛最多水的容器        | medium     | [10_isMatch.go](./algorithm/golang/10_isMatch.go)                                 | [test.go](./algorithm/golang/10_isMatch_test.go)                 |         |
+| 11  | 盛最多水的容器        | medium     | [11_maxArea.go](./algorithm/golang/11_maxArea.go)                                 | [test.go](./algorithm/golang/11_maxArea_test.go)                 |         |
 
 
 
