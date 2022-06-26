@@ -17,6 +17,7 @@ problems: [https://leetcode.cn/problemset/algorithms/](https://leetcode.cn/probl
 | 11  | 盛最多水的容器        | medium     | [11_maxArea.go](./algorithm/golang/11_maxArea.go)                                 | [test.go](./algorithm/golang/11_maxArea_test.go)                 |         |
 | 12  | 整数转罗马数字        | medium     | [12_intToRoman.go](./algorithm/golang/12_intToRoman.go)                           | [test.go](./algorithm/golang/12_intToRoman_test.go)              |         |
 | 13  | 罗马数字转整数        | medium     | [13_romanToInt.go](./algorithm/golang/13_romanToInt.go)                           | [test.go](./algorithm/golang/13_romanToInt_test.go)              |         |
+| 14  | 最长公共前缀         | easy       | [14_longestCommonPrefix.go](./algorithm/golang/14_longestCommonPrefix.go)         | [test.go](./algorithm/golang/14_longestCommonPrefix_test.go)     |         |
 
 
 

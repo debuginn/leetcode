@@ -30,10 +30,3 @@ func vConvert(s string, numRows int) string {
 	}
 	return strings.Join(rows, "")
 }
-
-func min(a, b int) int {
-	if a <= b {
-		return a
-	}
-	return b
-}
