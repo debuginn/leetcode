@@ -15,6 +15,7 @@ problems: [https://leetcode.cn/problemset/algorithms/](https://leetcode.cn/probl
 | 9   | 回文数            | medium     | [9_isPalindrome.go](./algorithm/golang/9_isPalindrome.go)                         | [test.go](./algorithm/golang/9_isPalindrome_test.go)             |         |
 | 10  | 正则表达式匹配        | hard       | [10_isMatch.go](./algorithm/golang/10_isMatch.go)                                 | [test.go](./algorithm/golang/10_isMatch_test.go)                 |         |
 | 11  | 盛最多水的容器        | medium     | [11_maxArea.go](./algorithm/golang/11_maxArea.go)                                 | [test.go](./algorithm/golang/11_maxArea_test.go)                 |         |
+| 12  | 整数转罗马数字        | medium     | [12_intToRoman.go](./algorithm/golang/12_intToRoman.go)                           | [test.go](./algorithm/golang/12_intToRoman_test.go)              |         |
 
 
 
