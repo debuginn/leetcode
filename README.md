@@ -2,7 +2,7 @@
 
 problems: [https://leetcode.cn/problemset/algorithms/](https://leetcode.cn/problemset/algorithms/)
 
-|     | problems       | difficulty | code                                                                              | test code                                                        | remarks              |
+|     | problems       | difficulty | code                                                                              | test code                                                        | tag                  |
 |-----|----------------|------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------|
 | 1   | 两数之和           | easy       | [1_twoSum.go](./algorithm/golang/1_twoSum.go)                                     | [test.go](./algorithm/golang/2_addTwoNumbers_test.go)            | violence, hash table |
 | 2   | 两数相加           | medium     | [2_addTwoNumbers.go](./algorithm/golang/2_addTwoNumbers.go)                       | [test.go](./algorithm/golang/2_addTwoNumbers_test.go)            | linked list          |
