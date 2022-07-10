@@ -15,7 +15,7 @@ func TwoSum(nums []int, target int) []int {
 	return []int{0, 0}
 }
 
-// TwoSumHashTable
+// TwoSumHashTable .
 func TwoSumHashTable(nums []int, target int) []int {
 
 	hashTable := make(map[int]int, len(nums))

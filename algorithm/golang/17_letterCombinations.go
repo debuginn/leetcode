@@ -1,5 +1,7 @@
 package golang
 
+// letterCombinations
+// 回溯算法
 func letterCombinations(digits string) []string {
 
 	digitsMap := map[byte][]string{
@@ -14,12 +16,25 @@ func letterCombinations(digits string) []string {
 	}
 
 	var res []string
+
 	if len(digits) <= 0 {
 		return res
 	}
-	if len(digits) == 0 {
-		return digitsMap[digits[0]]
+
+	var recur func(str string, count int, ans string)
+
+	recur = func(str string, count int, ans string) {
+		if len(str) == count {
+			res = append(res, ans)
+			return
+		}
+		s := digitsMap[str[count]]
+		for i := 0; i < len(s); i++ {
+			recur(str, count+1, ans+s[i])
+		}
 	}
 
-	return []string{}
+	recur(digits, 0, "")
+
+	return res
 }

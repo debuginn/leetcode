@@ -2,13 +2,12 @@ package golang
 
 // https://leetcode.com/problems/add-two-numbers/
 
-/**
-* Definition for singly-linked list.
-* type ListNode struct {
-*     Val int
-*     Next *ListNode
-* }
- */
+// ListNode
+//Definition for singly-linked list.
+//* type ListNode struct {
+//*     Val int
+//*     Next *ListNode
+//* }
 type ListNode struct {
 	Val  int
 	Next *ListNode
