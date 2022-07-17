@@ -21,6 +21,7 @@ problems: [https://leetcode.cn/problemset/algorithms/](https://leetcode.cn/probl
 | 15  | 三数之和           | medium     | [15_threeSum.go](./algorithm/golang/15_threeSum.go)                               | [test.go](./algorithm/golang/15_threeSum_test.go)                | double pointer       |
 | 16  | 最接近的三数之和       | medium     | [16_threeSumClosest.go](./algorithm/golang/16_threeSumClosest.go)                 | [test.go](./algorithm/golang/16_threeSumClosest_test.go)         | double pointer       |
 | 17  | 电话号码的字母组合      | medium     | [17_letterCombinations.go](./algorithm/golang/17_letterCombinations.go)           | [test.go](./algorithm/golang/17_letterCombinations_test.go)      | backtracking         |
+| 18  | 四数之和           | medium     | [18_fourSum.go](./algorithm/golang/18_fourSum.go)                                 | [test.go](./algorithm/golang/18_fourSum_test.go)                 | double pointer       |
 
 
 
