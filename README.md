@@ -24,6 +24,7 @@ problems: [https://leetcode.cn/problemset/algorithms/](https://leetcode.cn/probl
 | 0018 | 四数之和           | medium     | [0018_fourSum.go](./algorithm/golang/0018_fourSum.go)                                   | [test.go](./algorithm/golang/0018_fourSum_test.go)                  | double pointer        |
 | 0019 | 删除链表的倒数第 N 个结点 | medium     | [0019_removeNthFromEnd.go](./algorithm/golang/0019_removeNthFromEnd.go)                 | [test.go](./algorithm/golang/0019_removeNthFromEnd_test.go)         | fast and slow pointer |
 | 0020 | 有效的括号          | easy       | [0020_isValid.go](./algorithm/golang/0020_isValid.go)                                   | [test.go](./algorithm/golang/0020_isValid_test.go)                  | stack                 |
+| 0021 | 合并两个有序链表       | easy       | [0021_mergeTwoLists.go](./algorithm/golang/0021_mergeTwoLists.go)                       | [test.go](./algorithm/golang/0021_mergeTwoLists_test.go)            | Iterative             |
 
 
 
