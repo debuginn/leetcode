@@ -1,0 +1,5 @@
+package golang
+
+func generateParenthesis() {
+
+}
