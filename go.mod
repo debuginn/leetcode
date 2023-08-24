@@ -1,3 +1,3 @@
 module github.com/debuginn/leetcode
 
-go 1.18
+go 1.20

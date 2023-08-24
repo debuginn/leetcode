@@ -27,6 +27,4 @@ problems: [https://leetcode.cn/problemset/algorithms/](https://leetcode.cn/probl
 | 0021 | 合并两个有序链表       | easy       | [0021_mergeTwoLists.go](./algorithm/golang/0021_mergeTwoLists.go)                       | [test.go](./algorithm/golang/0021_mergeTwoLists_test.go)            | Iterative              |
 | 0022 | 括号生成           | medium     | [0022_generateParenthesis.go](./algorithm/golang/0022_generateParenthesis.go)           | [test.go](./algorithm/golang/0022_generateParenthesis_test.go)      | backtracking algorithm |
 
-
-
 ![gopher](./gophertop.png)
